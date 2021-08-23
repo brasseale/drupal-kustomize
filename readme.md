@@ -6,7 +6,7 @@ This project utilizes Kustomize to deploy a base project consisting of Drupal an
 ## Features   
 
 - Deploys MariaDB or Postgres to Kubernetes easily
-- Liveness/Readiness probes to ensure in the event of failures, resiliency is maintained.
+- Liveness/Readiness probes ensure in the event of failures, resiliency is maintained.
 - Persistent storage capable pods
 
 ___
