@@ -42,7 +42,9 @@ Host: drupal-db
 Port: 3306 (maridb), 5432 (postgres)
 ```
 
-**Save and Continue** to install Drupal.
+**Save and Continue** to install Drupal.   
+
+Fill out additional "**Configure Site**" information to complete installation.
 
 ---
 ## TODOs:
